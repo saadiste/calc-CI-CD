@@ -20,7 +20,7 @@ jobs:
         uses: docker/login-action@v2
         with:
           username: ${{ secrets.USERNAM }}
-          password: ${{ secrets.TOKEN }}
+          password: ${{ secrets.DOCKER_TOKEN }}
       - 
         name: Check
         uses: actions/checkout@v2
