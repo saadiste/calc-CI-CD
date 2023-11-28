@@ -1,6 +1,6 @@
 """
 Un script aaaaaaa python prenant 3 arguments dont le premier est l'opération voulue et les deux suivants 
-les deuaaaa entiers 
+les deuaaaa entierss 
 """
 
 import calc
